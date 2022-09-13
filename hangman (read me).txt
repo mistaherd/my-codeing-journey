@@ -1,0 +1,2 @@
+this program is the game hangman this is an asigenment  i did for college 
+you have 6 lives to get the word right  
