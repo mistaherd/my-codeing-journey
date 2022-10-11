@@ -1,0 +1,5 @@
+this program is meant to be ra with the following 
+-MMA7660 chip
+-servos
+-roborealm
+-libiaries gotten from the following <<program  /users/mistaherd/code/mbed_liam/>>
