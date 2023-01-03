@@ -1,0 +1,3 @@
+in my ageing i seen to have growen a likeing to Sudoko so i decided to code it  this code isnt curretly not funtional  
+but at this moment its just a window of buttons  its honestly kinda destressing updates will come soon
+
