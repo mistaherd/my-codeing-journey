@@ -1,0 +1,4 @@
+Variable 'dir' has the value: C:/Users/User/Downloads
+Variable 'api' has the value: Mapi
+Variable 'day_receive' has the value: 1
+Variable 'not_allowed' has the value: False
