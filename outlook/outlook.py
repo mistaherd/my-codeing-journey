@@ -55,7 +55,7 @@ class Outlook:
                 self.dir = selected_directory
 
             if self.not_allowed:
-                self.not_allowed = [".png", ".jpg", ".gif", ".ARTask"]
+                self.not_allowed = [".png", ".jpg", ".gif", ".ARTask",".MSG"]
 
             attributes = {
                 'dir': [self.dir],
