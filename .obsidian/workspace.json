@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4b1adf7f8be9b724",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4th_year_code/project/Low data rate network.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,11 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ab1d667777966f7",
+  "active": "4b1adf7f8be9b724",
   "lastOpenFiles": [
+    "4th_year_code/project/Low data rate network.md",
+    "4th_year_code/Forward error Correction.md",
+    "2023-09-21.md",
     "4th_year_code/DCA/notes.md",
     "().md",
-    "4th_year_code/project/Low data rate network.md",
     "notes/s.md",
     "notes",
     "4th_year_code/DCA/image.png",
