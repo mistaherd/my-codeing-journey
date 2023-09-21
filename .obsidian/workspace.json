@@ -129,7 +129,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -145,13 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c9b4e46fbf449df",
+  "active": "3ab1d667777966f7",
   "lastOpenFiles": [
-    "4th_year_code/DCA/image.png",
+    "notes/s.md",
     "4th_year_code/DCA/notes.md",
+    "notes",
+    "4th_year_code/DCA/image.png",
     "4th_year_code/data_comms/table.md",
     "outlook/outlook explained line by line.pdf",
-    "Untitled",
     "2023-09-20.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
