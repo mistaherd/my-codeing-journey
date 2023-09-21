@@ -78,5 +78,7 @@ the current ops are furtial of the  current ips as well as past ops/ips
 
 Difference betwenn a fip-flop and a latch
 
-- ff edge trigered 
+- ff edge triggered 
 - latch is level
+
+

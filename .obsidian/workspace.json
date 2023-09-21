@@ -91,7 +91,7 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -145,11 +145,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ab1d667777966f7",
+  "active": "0c9b4e46fbf449df",
   "lastOpenFiles": [
-    "4th_year_code/data_comms/table.md",
     "4th_year_code/DCA/image.png",
     "4th_year_code/DCA/notes.md",
+    "4th_year_code/data_comms/table.md",
     "outlook/outlook explained line by line.pdf",
     "Untitled",
     "2023-09-20.md",
