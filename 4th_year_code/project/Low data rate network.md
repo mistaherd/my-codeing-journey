@@ -1,7 +1,10 @@
-# what
+## what
 - A network system that connects two or more computing devices for transmitting and sharing information
-- the id
-# how
+- the idea is to make a mesh  network  and transmit  data with forward error correction with a focus on the encoding and the network setup
+- 
 
-# when 
-# why
+## how
+
+
+## when 
+## why
