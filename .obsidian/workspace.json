@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4th_year_code/DCA/notes.md",
+                "file": "4th_year_code/project/Low data rate network.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4th_year_code/DCA/notes.md",
+                "file": "4th_year_code/project/Low data rate network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4th_year_code/DCA/notes.md",
+                "file": "4th_year_code/project/Low data rate network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4th_year_code/DCA/notes.md"
+                "file": "4th_year_code/project/Low data rate network.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,8 +148,10 @@
   },
   "active": "3ab1d667777966f7",
   "lastOpenFiles": [
-    "notes/s.md",
     "4th_year_code/DCA/notes.md",
+    "().md",
+    "4th_year_code/project/Low data rate network.md",
+    "notes/s.md",
     "notes",
     "4th_year_code/DCA/image.png",
     "4th_year_code/data_comms/table.md",
