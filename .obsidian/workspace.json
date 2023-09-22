@@ -11,23 +11,9 @@
             "id": "3ab1d667777966f7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "4th_year_code/project/Low data rate network.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b1adf7f8be9b724",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4th_year_code/project/Low data rate network.md",
-                "mode": "source",
-                "source": false
+                "file": "4th_year_code/project/Mesh network in forest project/Realization of Forest Internet of Things Using Wireless.pdf"
               }
             }
           },
@@ -35,16 +21,14 @@
             "id": "74ee3aa6d1f1c9e6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "4th_year_code/project/Low data rate network.md",
-                "mode": "source",
-                "source": false
+                "file": "4th_year_code/project/Mesh network in forest project/Silvanet Mesh Gateway.pdf"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4th_year_code/project/Low data rate network.md",
+                "file": "4th_year_code/project/Mesh network in forest project/Silvanet Mesh Gateway.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4th_year_code/project/Low data rate network.md",
+                "file": "4th_year_code/project/Mesh network in forest project/Silvanet Mesh Gateway.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,11 +134,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4th_year_code/project/Low data rate network.md"
+                "file": "4th_year_code/project/Mesh network in forest project/Silvanet Mesh Gateway.pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -173,27 +158,27 @@
   },
   "active": "74ee3aa6d1f1c9e6",
   "lastOpenFiles": [
-    "4th_year_code/project/Mesh network in forest project/introduction-to-wireless-networking-and-its-impact-on-applications-3031274652-9783031274657.pdf",
-    "4th_year_code/project/Mesh network in forest project/msoD05C.tmp",
-    "4th_year_code/project/Mesh network in forest project/msoE6CB.tmp",
-    "4th_year_code/project/Mesh network in forest project/ppt4104.tmp",
-    "4th_year_code/project/Mesh network in forest project/~$introduction-to-wireless-networking-and-its-impact-on-applications-3031274652-9783031274657.pptx",
+    "4th_year_code/project/Low data rate network.md",
     "4th_year_code/DCA/DCA Class notes.md",
     "4th_year_code/DCA/image.png",
+    "4th_year_code/project/Mesh network in forest project/Realization of Forest Internet of Things Using Wireless.pdf",
+    "().md",
+    "4th_year_code/project/Mesh network in forest project/Silvanet Wildfire Sensor.pdf",
+    "4th_year_code/project/Mesh network in forest project/A study of the LoRa signal propagation in forest, urban,.pdf",
+    "Modeling of radiowave propagation in a forested environment.pdf.md",
+    "4th_year_code/project/Mesh network in forest project/Modeling of radiowave propagation in a forested environment - CORE Reader.htm",
+    "4th_year_code/project/Mesh network in forest project/Modeling of radiowave propagation in a forested environment - CORE Reader_files/_ssgManifest.js",
+    "4th_year_code/project/Mesh network in forest project/Modeling of radiowave propagation in a forested environment - CORE Reader_files/_buildManifest.js",
+    "4th_year_code/project/Mesh network in forest project/Modeling of radiowave propagation in a forested environment - CORE Reader_files/_app-7dcf4cb970086555bbaf.js",
+    "4th_year_code/project/Mesh network in forest project/Modeling of radiowave propagation in a forested environment - CORE Reader_files/[pdfId]-2f928bd9a0683fd71079.js",
+    "4th_year_code/project/Mesh network in forest project/Modeling of radiowave propagation in a forested environment - CORE Reader_files/webpack-946743048581f52fe35d.js",
+    "4th_year_code/project/Mesh network in forest project/Modeling of radiowave propagation in a forested environment - CORE Reader_files/polyfills-6d6c377365630078ee4c.js",
     "4th_year_code/Forward error Correction.md",
     "4th_year_code/DCA/notes.md",
-    "4th_year_code/project/Mesh network in forest project/Silvanet Mesh Gateway.pdf",
-    "4th_year_code/project/Mesh network in forest project/introduction-to-wireless-networking-and-its-impact-on-applications-3031274652-9783031274657.pptx",
-    "4th_year_code/project/Mesh network in forest project/Silvanet Wildfire Sensor.pdf",
     "notes/signal propagation/Signal propagation.md",
-    "4th_year_code/project/Low data rate network.md",
-    "4th_year_code/project/Mesh network in forest project/A study of the LoRa signal propagation in forest, urban,.pdf",
-    "4th_year_code/project/Mesh network in forest project/Modeling of radiowave propagation in a forested environment.pdf",
-    "4th_year_code/project/Mesh network in forest project/Realization of Forest Internet of Things Using Wireless.pdf",
     "Untitled.canvas",
     "2023-09-22.md",
     "2023-09-21.md",
-    "().md",
     "notes/s.md",
     "4th_year_code/data_comms/table.md",
     "2023-09-20.md",
