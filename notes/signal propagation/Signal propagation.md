@@ -1,0 +1,1 @@
+This is **the movement of radio waves from a transmitter to a receiver**. When the waves travel (propagate) from one point to another, they are, like light waves, affected by different phenomena such as light reflection, absorption, or scattering.

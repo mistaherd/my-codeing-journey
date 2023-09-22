@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "74ee3aa6d1f1c9e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4th_year_code/project/Low data rate network.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,12 +171,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b1adf7f8be9b724",
+  "active": "3fe703ee0aac13c9",
   "lastOpenFiles": [
-    "4th_year_code/project/Low data rate network.md",
+    "notes/signal propagation/Untitled",
     "4th_year_code/Forward error Correction.md",
+    "4th_year_code/project/Low data rate network.md",
+    "notes/signal propagation/Signal propagation.md",
+    "4th_year_code/DCA/DCA Class notes.md",
+    "notes",
+    "notes/signal propagation",
     "2023-09-21.md",
-    "4th_year_code/DCA/notes.md",
     "().md",
     "notes/s.md",
     "notes",
