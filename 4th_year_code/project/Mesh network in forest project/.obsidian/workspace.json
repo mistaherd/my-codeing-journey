@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "1312fbeb25c4e5ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "57ae54298b6ad1fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3922bb699fd0b847",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "51c7cd2e270ece73",
+    "type": "split",
+    "children": [
+      {
+        "id": "28deb141f07ea8cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bac03d927e2e7b32",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e326eacd72709dee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "815fe0be327e42bb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fc1bfbc16a4013d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "c79b331d34daa52f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f61013e80272bc9e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8f4c4b499a0510ea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "05c828e08aac843a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "78859a89de50bbed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3922bb699fd0b847",
+  "lastOpenFiles": [
+    "Realization of Forest Internet of Things Using Wireless.pdf",
+    "Modeling of radiowave propagation in a forested environment.pdf",
+    "A study of the LoRa signal propagation in forest, urban,.pdf"
+  ]
+}

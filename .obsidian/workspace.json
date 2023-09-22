@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4th_year_code/project/Low data rate network.md",
+                "file": "4th_year_code/Forward error Correction.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4th_year_code/project/Low data rate network.md",
+                "file": "4th_year_code/Forward error Correction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4th_year_code/project/Low data rate network.md",
+                "file": "4th_year_code/Forward error Correction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4th_year_code/project/Low data rate network.md"
+                "file": "4th_year_code/Forward error Correction.md"
               }
             }
           }
@@ -171,12 +171,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3fe703ee0aac13c9",
+  "active": "74ee3aa6d1f1c9e6",
   "lastOpenFiles": [
-    "notes/signal propagation/Untitled",
+    "notes/signal propagation/Signal propagation.md",
     "4th_year_code/Forward error Correction.md",
     "4th_year_code/project/Low data rate network.md",
-    "notes/signal propagation/Signal propagation.md",
+    "4th_year_code/project/Mesh network in forest project/A study of the LoRa signal propagation in forest, urban,.pdf",
+    "4th_year_code/project/Mesh network in forest project/Modeling of radiowave propagation in a forested environment.pdf",
+    "4th_year_code/project/Mesh network in forest project/Realization of Forest Internet of Things Using Wireless.pdf",
+    "4th_year_code/project/Mesh network in forest project",
+    "Untitled.canvas",
+    "2023-09-22.md",
+    "notes/signal propagation/Untitled",
     "4th_year_code/DCA/DCA Class notes.md",
     "notes",
     "notes/signal propagation",
@@ -188,7 +194,6 @@
     "4th_year_code/data_comms/table.md",
     "outlook/outlook explained line by line.pdf",
     "2023-09-20.md",
-    "Untitled 1.canvas",
-    "Untitled.canvas"
+    "Untitled 1.canvas"
   ]
 }
