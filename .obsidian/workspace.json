@@ -33,9 +33,11 @@
             "id": "ac236cbec0df3a51",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "4th_year_code/project/Mesh network in forest project/Realization of Forest Internet of Things Using Wireless.pdf"
+                "file": "notes/signal propagation/Signal propagation.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -106,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4th_year_code/project/Mesh network in forest project/Realization of Forest Internet of Things Using Wireless.pdf",
+                "file": "notes/signal propagation/Signal propagation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4th_year_code/project/Mesh network in forest project/Realization of Forest Internet of Things Using Wireless.pdf",
+                "file": "notes/signal propagation/Signal propagation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4th_year_code/project/Mesh network in forest project/Realization of Forest Internet of Things Using Wireless.pdf"
+                "file": "notes/signal propagation/Signal propagation.md"
               }
             }
           }
@@ -170,15 +172,15 @@
   },
   "active": "ac236cbec0df3a51",
   "lastOpenFiles": [
-    "4th_year_code/project/Mesh network in forest project/introduction-to-wireless-networking-and-its-impact-on-applications-3031274652-9783031274657.pdf",
-    "4th_year_code/project/Mesh network in forest project/A study of the LoRa signal propagation in forest, urban,.pdf",
     "4th_year_code/project/Low data rate network.md",
     "4th_year_code/project/ISM bands.md",
+    "4th_year_code/DCA/image.png",
+    "4th_year_code/DCA/DCA Class notes.md",
+    "4th_year_code/project/Mesh network in forest project/introduction-to-wireless-networking-and-its-impact-on-applications-3031274652-9783031274657.pdf",
+    "4th_year_code/project/Mesh network in forest project/Realization of Forest Internet of Things Using Wireless.pdf",
+    "4th_year_code/project/Mesh network in forest project/A study of the LoRa signal propagation in forest, urban,.pdf",
     "4th_year_code/Forward error Correction.md",
     "4th_year_code/project/Mesh network in forest project/Silvanet Mesh Gateway.pdf",
-    "4th_year_code/DCA/DCA Class notes.md",
-    "4th_year_code/DCA/image.png",
-    "4th_year_code/project/Mesh network in forest project/Realization of Forest Internet of Things Using Wireless.pdf",
     "().md",
     "4th_year_code/project/Mesh network in forest project/Silvanet Wildfire Sensor.pdf",
     "Modeling of radiowave propagation in a forested environment.pdf.md",
@@ -187,7 +189,6 @@
     "4th_year_code/project/Mesh network in forest project/Modeling of radiowave propagation in a forested environment - CORE Reader_files/_buildManifest.js",
     "4th_year_code/project/Mesh network in forest project/Modeling of radiowave propagation in a forested environment - CORE Reader_files/_app-7dcf4cb970086555bbaf.js",
     "4th_year_code/project/Mesh network in forest project/Modeling of radiowave propagation in a forested environment - CORE Reader_files/[pdfId]-2f928bd9a0683fd71079.js",
-    "4th_year_code/project/Mesh network in forest project/Modeling of radiowave propagation in a forested environment - CORE Reader_files/webpack-946743048581f52fe35d.js",
     "4th_year_code/DCA/notes.md",
     "notes/signal propagation/Signal propagation.md",
     "Untitled.canvas",
