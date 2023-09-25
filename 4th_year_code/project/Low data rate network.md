@@ -2,6 +2,16 @@
 - A network system that connects two or more computing devices for transmitting and sharing information
 - The idea is to make a mesh  network  and transmit  data with forward error correction with a focus on the encoding and the network setup
 - What is a  mesh network
+## what I did?
+I looked for multiple  papers to see who has done work  on this in the past 
+looked at multiple  YouTube video and paper found that they used  from 900mhZ to  2.4GHZ
+
+look at amazon  for 900mhz  module  i came across the following:
+
+1. FrSky 900MHz R9M 2019 Long Range Module System Compatible R9 Series (ACCST/Access)
+2.  HiLetgo NRF905 Wireless Transceiver Module PTR8000+ 433/486/915MHz with Antenna NF905SE
+3.  REYAX RYLR896 Lora Module SX1276 UART 868MHz 915MHz Antenna at Command FCC NCC
+4. 
 
 ## how
 
