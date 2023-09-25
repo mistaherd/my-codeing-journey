@@ -1,0 +1,1 @@
+ISM radio bands are portions of the radio spectrum reserved internationally  for industial scientific and medical  purposes 
